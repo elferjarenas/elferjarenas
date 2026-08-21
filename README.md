@@ -5,18 +5,18 @@
 $ about
 Software Engineer / QA Automation / Hobbyist Builder
 
-$ skills
-JavaScript • TypeScript • Python • Docker • SQL • Git
+$ code
+JavaScript • TypeScript • Python • SQL • Bash
+
+$ tools
+→ Git
+→ Docker
+→ GitHub Actions
+→ VS Code
+→ Jujutsu
 
 $ interests
-→ Cooking
-→ Traveling
-→ Lego
-→ Theatre
-→ Music
-
-$ currently_learning
-System Design   DevOps   DSA   LeetCode   Jujutsu
+Cooking   Traveling   Lego   Theatre   Music
 
 $ philosophy
 Build with purpose. Test with curiosity.
