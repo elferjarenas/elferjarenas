@@ -1,21 +1,25 @@
 <pre>
-~/Welcome
+~/welcome
 ──────────
 
 $ about
-Software Engineer / QA Automation / Open Source Enthusiast
+Software Engineer / QA Automation / Hobbyist Builder
 
 $ skills
-JavaScript • TypeScript • Python • Docker • SQL
+JavaScript • TypeScript • Python • Docker • SQL • Git
 
 $ interests
 → Cooking
 → Traveling
 → Lego
+→ Theatre
 → Music
 
 $ currently_learning
-System Design   DevOps   Algorithms   LeetCode
+System Design   DevOps   DSA   LeetCode   Jujutsu
+
+$ philosophy
+Build with purpose. Test with curiosity.
 
 > _
 </pre>
